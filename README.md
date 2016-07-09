@@ -13,4 +13,4 @@
 	call vundle#begin('$VIM\.vim\bundle')
 	```
 
-- All bundle plugin will clone in .vim/bundle/ foler
+- All bundle plugin will clone in .vim/bundle/ folder
