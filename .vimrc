@@ -11,6 +11,7 @@ colorscheme desert
 set guioptions=
 set guifont=DejaVu_Sans_Mono:h10:cANSI
 set encoding=utf-8
+set guifontwide=NSimSun
 let $lang='en-us'
 
 nmap <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
