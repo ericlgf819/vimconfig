@@ -1,7 +1,11 @@
 set nocompatible
 filetype off
 
+" set the runtime path to include Vundle and initialize
 set rtp+=$VIM/.vim/bundle/Vundle.vim
+"
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
 call vundle#begin('$VIM\.vim\bundle')
 
 Plugin 'gmarik/Vundle.vim'
