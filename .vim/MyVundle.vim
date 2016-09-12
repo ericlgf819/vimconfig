@@ -52,5 +52,8 @@ Plugin 'Shougo/vimproc.vim'
 " markdown
 Plugin 'plasticboy/vim-markdown'
 
+" toml
+Plugin 'cespare/vim-toml'
+
 call vundle#end()
 filetype plugin indent on
