@@ -12,6 +12,7 @@ Plugin 'gmarik/Vundle.vim'
 
 " git support
 Plugin 'tpope/vim-fugitive'
+Plugin 'gregsexton/gitv'
 
 " common
 Plugin 'scrooloose/nerdtree'
